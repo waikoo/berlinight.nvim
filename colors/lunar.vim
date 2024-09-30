@@ -1,4 +1,4 @@
 lua << EOF
-local lunar = require("lunar")
+local lunar = require("berlinnight")
 lunar.setup({})
 EOF
