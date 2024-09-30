@@ -1,2 +1,2 @@
-# lunar.nvim
-LunarVim Colorscheme
+# berlinnight.nvim
+BerlinNight Colorscheme
