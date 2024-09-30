@@ -52,6 +52,16 @@ local colors = {
   warning = "#e0af68",
   info = "#0db9d7",
   hint = "#1abc9c",
+  w_css_classname = "#ec82f2",
+  w_css_plain = "#ea8346",
+  w_method = "#7aa2f7",
+  w_function = "#edd15b",
+  w_operator = "#ffffff",
+  w_parameter = "#ff8e64",
+  w_include = "#cb7df2",
+  w_tag_builtin = "#ff4d97",
+  w_tag_css = "#ff4d97",
+  w_tag_tsx = "#2ac3de"
 }
 
 return colors
