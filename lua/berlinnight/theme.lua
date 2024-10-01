@@ -108,7 +108,7 @@ theme.set_highlights = function()
 
   -- Treesitter
   hl(0, "@css_classname", { fg = c.w_css_classname, bg = 'NONE' })
-  hl(0, "@css_plain_value", { fg = c.w_css_plain}, bg = 'NONE' })
+  hl(0, "@css_plain_value", { fg = c.w_css_plain, bg = 'NONE' })
   hl(0, "function", { fg = c.w_function}, bg = 'NONE' })
   hl(0, "function", { fg = c.w_tag_builtin}, bg = 'NONE' })
   hl(0, "function", { fg = c.w_tag_css}, bg = 'NONE' })
