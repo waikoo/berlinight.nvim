@@ -7,4 +7,11 @@ endif
 let g:colors_name="berlinnight"
 
 " Load the Lua module
-lua require('berlinnight').load()
+lua <<EOF
+local ok, berlinnight = pcall(require, 'berlinnight')
+if ok then
+  berlinnight.load()
+else
+  vim.api.nvim_err_writeln("Failed to load berlinnight: " .. berlinnight)
+end
+EOF
