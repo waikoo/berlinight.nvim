@@ -1,6 +1,6 @@
 # berlinnight.vim
-[example](https://i.imgur.com/RlLa4On.png)
-[example2](https://i.imgur.com/vYMke06.png)
+![example](https://i.imgur.com/RlLa4On.png)
+![example2](https://i.imgur.com/vYMke06.png)
 BerlinNight Colorscheme
 
 Forked from the amazing [lunarvim](https://github.com/LunarVim/lunar.vim) colorscheme to customize it further to my needs.
